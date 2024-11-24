@@ -2,7 +2,7 @@
 title: "Distal Joint Rotation Mechanism for Continuum Endoscopic Robot Manipulation"
 collection: publications
 category: thesis
-permalink: /related-publications/thesis
+permalink: /related-publications/2022-08-31-mphil-thesis
 excerpt: ''
 date: 2022-08-31
 venue: 'Department of Mechanical and Automation Engineering, Chinese University of Hong Kong'
