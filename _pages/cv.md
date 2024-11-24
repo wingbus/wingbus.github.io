@@ -33,6 +33,14 @@ Skills
   * Led the design and development of a real-time structured light 3D scanning system, from optical & mechanical design to C++ implementation & optimization
   * Increased scanning rate by 9 times with new software pipeline in C++, Qt Creator and Linux OS
   * Increased point cloud processing speed by 70% with multi-threading (OpenMP, Intel TBB) and GPU acceleration (PCL and OpenCV CUDA)
+  * Researched and built a cable-driven continuum device for robotic Natural Orifice Transluminal Endoscopic Surgery (NOTES) with SolidWorks and 3D printing
+
+> **Graduate Research Student**, Sep 2020 – Aug 2022
+* The Chinese University of Hong Kong
+  * Researched and invented a novel distal joint rotation mechanism for soft robotic arms in a robotic Endoscopic Submucosal Dissection (ESD) system
+  * Enhanced positional accuracy of tendon-sheath mechanism with feedforward and current sensing feedback controller
+  * Built a motorized experiment platform with UART, RS232, USB, and EtherCAT in C++
+
 
 > **Research Assistant**, Oct 2019 - Jun 2020
 * The Chinese University of Hong Kong
