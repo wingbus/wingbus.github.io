@@ -8,7 +8,7 @@ collection: portfolio
 
 ## Objectives
 
-* To design and manufacture 3 soccer robots to compete with contestants from USA, India and South America
+* To design and manufacture 3 soccer robots to compete with contestants from USA, India and South America in ASME Student Design Competiton
 * To build tennis ball shooting mechanisms on top of robot chassis
 
 ## Methods

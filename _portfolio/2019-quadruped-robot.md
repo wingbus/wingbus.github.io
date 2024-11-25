@@ -8,7 +8,7 @@ collection: portfolio
 
 ## Objectives
 
-* To design and manufacture a light-weight (< 8 kg) a quadruped robot which fulfils game rules and able to finish all required task in Asia-Pacific Broadcasting Union Robot Contest, Hong Kong
+* To design and manufacture a light-weight (< 8 kg) a quadruped robot which fulfils game rules and able to finish all required task in Asia-Pacific Broadcasting Union Robot Contest (ABU Robocon), Hong Kong
 * To develop gait and trajectory model for the mammal type robot to perform all the required tasks
 
 ## Methods
