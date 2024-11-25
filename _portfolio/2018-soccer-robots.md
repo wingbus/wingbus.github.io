@@ -8,26 +8,26 @@ collection: portfolio
 
 ## Objectives
 
-* To design and manufacture 3 soccer robots to compete with contestants from USA, India and South America in ASME Student Design Competiton
+* To design and manufacture 3 soccer robots to compete with contestants from USA, India and South America in the ASME Student Design Competiton
 * To build tennis ball shooting mechanisms on top of robot chassis
 
 ## Methods
 
 1. Brainstorm multiple designs, iterate and prototype quickly
 
-    In order to decide which type of drivetrain and shooting mechanism best suit the game's nature and our team's strategy, we loop through robot development cycle multiple time.
+    In order to decide which type of drivetrain and shooting mechanism best suit the game's nature and our team's strategy, we loop through robot development cycle multiple times.
 
     ![](/images/soccer-robots-1.png)
 
 2. Finalise our design and robots
 
-    After experiementing with various drivetrains (e.g differential drive, tank drive, mecanum drive) and shooting mechanisms (e.g. spring-loaded rack and pinion, flywheel). We decided to use differential drive, tank drive and fly wheel due to their simplicity, robustness and power. The flywheel can even grap and hold tennis ball easily.
+    After experimenting with various drivetrains (e.g. differential drive, tank drive, mecanum drive) and shooting mechanisms (e.g. spring-loaded rack and pinion, flywheel). We decided to use differential drive, tank drive and fly wheel due to their simplicity, robustness and power. The flywheel can even grap and hold tennis balls easily.
 
     ![](/images/soccer-robots-2.png)
 
 3. Practice makes perfect
 
-    We spent a lot of time practising to get familiar with the control of the robots and build sense of offense, defense and cooperation in game field.
+    We spent a lot of time practising to get familiar with the control of the robots and build a sense of offense, defense and cooperation in the game field.
 
     ![](/images/soccer-robots-3.png)
 
@@ -35,7 +35,7 @@ collection: portfolio
 
 1. Awarded second place
 
-    By securing the last goal in last 10 seconds, our team won second place.
+    By securing the last goal in the last 10 seconds, our team won second place.
 
     ![](/images/soccer-robots-4.png)
 

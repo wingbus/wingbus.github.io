@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Passionate engineer with 4+ years of experience in the design and development of robotics and computer vision systems in competitive environments. Skilled in advanced robotics, advanced control systems, 3D reconstruction, SolidWorks CAD, rapid prototyping, C++, Python, embedded systems, with a proven track record of implementing novel concepts into research inventions and enhancing system performance and efficiency through innovative engineering solutions.
+Passionate engineer with 4+ years of experience in the design and development of robotics and computer vision systems in competitive environments. Skilled in advanced robotics, advanced control systems, 3D reconstruction, SolidWorks CAD, rapid prototyping, C++, Python and embedded systems, with a proven track record of implementing novel concepts into research inventions and enhancing system performance and efficiency through innovative engineering solutions.
 
 Skills
 ======

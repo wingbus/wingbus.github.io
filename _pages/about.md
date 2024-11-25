@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Wing Cheung, a passionate engineer specializing in the design and development of robotics and computer vision systems. My expertise spans mechanical design and software development, allowing me to develop "good systems with good control". I enjoy working on different projects and learning new technology. My goal is to create meaningful and useful solutions to real-life problems.
+Hey there, I am Wing Cheung, a passionate engineer who specializes in designing and developing robotics and computer vision systems. My expertise spans mechanical design and software development, allowing me to develop "good systems with good control". I love diving into diverse projects and embracing new technologies. My aim is to innovate and deliver practical solutions that tackle real-world challenges effectively.
 
 Projects I Worked On
 ======
