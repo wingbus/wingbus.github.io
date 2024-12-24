@@ -21,7 +21,7 @@ collection: portfolio
 
 2. Design the quadruped robot based on modelling, calculation and simulation
 
-    The design starts from forward and inverse kinematics modelling, which relates the joint angle and leg tip position. Leg lengths and motors are determined by obstacle-crossing ability and static force/torque analysis, which relates the joint torque and force at end-effector. A workspace plot is used to visualize the achievable range of leg motion. 3D CAD modelling is done with the help of SolidWorks. Finite element analysis is performed in SolidWorks to ensure robot to has enough stiffness while maintaining lightweight structure.
+    The design starts from forward and inverse kinematics modelling, which relates the joint angles and leg tip position. Leg lengths and motors are determined by obstacle-crossing ability and static force/torque analysis, which relates the joint torques and force at end-effector. A workspace plot is used to visualize the achievable range of leg motion. 3D CAD modelling is done with the help of SolidWorks. Finite element analysis is performed in SolidWorks to ensure the robot has enough stiffness while maintaining a lightweight structure.
 
     ![](/images/quadruped-robot-2.png)
     ![](/images/quadruped-robot-3.png)

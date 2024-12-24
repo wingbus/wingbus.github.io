@@ -14,13 +14,13 @@ collection: portfolio
 
 1. Review recent and related literature to confirm the most suitable 3D scanning technology for our application
 
-    Structured light scanning is a 3D scanning technique that is similar to stereo camera, except that one camera is replaced by a projector. The projection of encoded patterns helps to build up correspondence between projector’s pixel and camera’s pixel of the same point of a surface shape. With the stereo relationship, illumination will appear distorted from the camera perspective, and this can be used for geometric reconstruction of the surface shape through triangulation.
+    Structured light scanning is a 3D scanning technique that is similar to stereo camera, except that one camera is replaced by a projector. The projection of encoded patterns helps to build up correspondence between projector’s pixel and camera’s pixel of the same point of a surface. With the stereo relationship, illumination will appear distorted from the camera perspective, and this can be used for geometric reconstruction of the surface shape through triangulation.
 
     ![](/images/structured-light-1.png)
 
 2. Perform optical design according to design specifications
 
-    Verify the feasibility with calculation on magnification, resolution, and simulation on Grin Lens in Zemax. Select the list of required hardware according to calculation results and budget.
+    Verify the feasibility with calculations on magnification, resolution, and simulation on Grin Lens in Zemax. Then, select the list of required hardwares according to calculation results and budget.
 
     ![](/images/structured-light-2.png)
     ![](/images/structured-light-3.png)
@@ -50,7 +50,7 @@ collection: portfolio
 
 2. Measurement and accuracy
 
-    The software allows manual measurement (by picking points) and auto measurement (by RANSAC sphere detection). The RANSAC method is able to reject noise, unwanted data, and detect a sphere object correctly. A 25.4140 mm ceramic sphere is measured to be 25.3624 mm, which shows an accuracy of less than 0.1 mm.
+    The software allows manual measurement (by picking points) and auto measurement (by RANSAC sphere detection). The RANSAC method is able to reject noise, unwanted data, and detect a sphere object correctly. A 25.4140 mm ceramic sphere is measured to be 25.3624 mm, which shows an accuracy of about 0.06 mm.
 
     ![](/images/structured-light-7.png)
 

@@ -15,13 +15,13 @@ collection: portfolio
 
 1. Brainstorm multiple designs, iterate and prototype quickly
 
-    In order to decide which type of drivetrain and shooting mechanism best suit the game's nature and our team's strategy, we loop through robot development cycle multiple times.
+    In order to decide which type of drivetrain and shooting mechanism best suit the game's nature and our team's strategy, we looped through robot development cycle multiple times.
 
     ![](/images/soccer-robots-1.png)
 
 2. Finalise our design and robots
 
-    After experimenting with various drivetrains (e.g. differential drive, tank drive, mecanum drive) and shooting mechanisms (e.g. spring-loaded rack and pinion, flywheel). We decided to use differential drive, tank drive and fly wheel due to their simplicity, robustness and power. The flywheel can even grap and hold tennis balls easily.
+    After experimenting with various drivetrains (e.g. differential drive, tank drive, mecanum drive) and shooting mechanisms (e.g. spring-loaded rack and pinion, flywheel). We decided to use differential drive, tank drive and flywheel due to their simplicity, robustness and power. By reversing rotation, the flywheel can even grap and hold tennis balls securely.
 
     ![](/images/soccer-robots-2.png)
 
