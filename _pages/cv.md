@@ -25,8 +25,8 @@ Experience
 
 > **Robotics Engineer**, Jun 2024 - Present
 * Deepwave Robotics
-  * Responsible for mechanical, electronic, and software design of an underwater robotic hand
-  * Perform sourcing and prototyping for proof-of-concept
+  * Performed mechanical, electronic, and software design of a cable-driven compliant robotic hand for underwater applications
+  * Built first prototype and implemented control algorithm in C and STM32
 
 > **Mechanical/Software Developer**, Oct 2022 - Jan 2024
 * The Chinese University of Hong Kong

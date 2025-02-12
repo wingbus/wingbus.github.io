@@ -11,6 +11,8 @@ Hey there, I am Wing Cheung, a passionate engineer who specializes in designing 
 
 Projects I Worked On
 ======
+* Robotic hand
+  * Compliant robotic hand for underwater applications
 * [Structured light 3D scanning system](/portfolio/2023-structured-light/)
   * Endoscopic vision system with 3D reconstruction capability to collect geometric information of tumor/polyps & surgical fields
 * Endoscopic robotic surgical system
