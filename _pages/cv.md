@@ -28,7 +28,7 @@ Experience
   * Performed mechanical, electronic, and software design of a cable-driven compliant robotic hand for underwater applications
   * Built first prototype and implemented control algorithm in C and STM32
 
-> **Mechanical/Software Developer**, Oct 2022 - Jan 2024
+> **Research Assistant**, Oct 2022 - Jan 2024
 * The Chinese University of Hong Kong
   * Led the design and development of a [real-time structured light 3D scanning system](/portfolio/2023-structured-light/), from optical & mechanical design to C++ implementation & optimization
   * Increased scanning rate by 9 times with new software pipeline in C++, Qt Creator and Linux OS
