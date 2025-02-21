@@ -9,35 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Passionate engineer with 4+ years of experience in the design and development of robotics and computer vision systems in competitive environments. Skilled in advanced robotics, advanced control systems, 3D reconstruction, SolidWorks CAD, rapid prototyping, C++, Python and embedded systems, with a proven track record of implementing novel concepts into research inventions and enhancing system performance and efficiency through innovative engineering solutions.
+Passionate engineer with 4+ years of experience in the design and development of robotics and 3D vision systems in competitive environments. Skilled in advanced robotics, advanced control systems, embedded systems, 3D reconstruction, C++, Python, SolidWorks CAD, and rapid prototyping, with a proven track record of implementing underwater robots, soft robots, legged robots, omni-directional robots, structured light scanners, and enhancing system performance and efficiency through innovative engineering solutions.
 
 Skills
 ======
 
-|**Robotics**| Mobile Robots, Soft Robots, Control Systems |
-|**Computer Vision**| Camera & Projector Calibration, Image & Point Cloud Processing, Real-time 3D Reconstruction |
-|**Computer-Aided Design (CAD)**| 3D Modelling, Finite Element Analysis (FEA), Engineering Drawings, GD&T|
-|**Prototyping**| FDM/SLA/DLP 3D Printing, Milling, Turning|
-|**Computer/Software**| C++, Python, Matlab, Qt, Git, Linux, AutoCAD, SolidWorks|
+|**Robotics**| Mobile Robots, Soft Robots, Kinematics & Dynamics Modeling, Control Systems |
+|**3D Scanning**| Camera & Projector Calibration, Image & Point Cloud Processing, Real-time 3D Reconstruction |
+|**Languages**| C, C++, Python, MATLAB|
+|**Tools/Libraries**| OpenCV, Point Cloud Library (PCL), STM32Cube, Qt, Simulink, Git|
+|**Software/OS**| VS Code, Visual Studio, Qt Creator, SolidWorks, AutoCAD, Linux|
+|**Mechanical**| Finite Element Analysis (FEA), Design for Manufacturing, GD&T|
+|**Prototyping**| Turning, Milling, Sheet Metal, FDM/SLA /DLP 3D Printing, Soldering|
 
 Experience
 ======
 
 > **Robotics Engineer**, Jun 2024 - Present
 * Deepwave Robotics
-  * Performed mechanical, electronic, and software design of a cable-driven compliant robotic hand for underwater applications
-  * Built first prototype and implemented control algorithm in C and STM32
+  * Performed mechanical, electronic, and software design for an underwater compliant robotic hand
+  * Developed first prototype with SolidWorks CAD, FDM & DLP 3D printing
+  * Built custom servo motors and implemented control algorithm in C and STM32
 
 > **Research Assistant**, Oct 2022 - Jan 2024
 * The Chinese University of Hong Kong
-  * Led the design and development of a [real-time structured light 3D scanning system](/portfolio/2023-structured-light/), from optical & mechanical design to C++ implementation & optimization
-  * Increased scanning rate by 9 times with new software pipeline in C++, Qt Creator and Linux OS
-  * Increased point cloud processing speed by 70% with multi-threading (OpenMP, Intel TBB) and GPU acceleration (PCL and OpenCV CUDA)
-  * Researched and built a cable-driven continuum device for robotic Natural Orifice Transluminal Endoscopic Surgery (NOTES) with SolidWorks and 3D printing
+  * Led the design and development of a [real-time structured light 3D scanning system](/portfolio/2023-structured-light/)
+  * Implemented 3D measurement, object detection, and GUI with OpenCV, PCL in C++, Qt Creator, and Linux
+  * Increased scanning rate by 9 times with re-designed scanning and VTK rendering pipeline
+  * Reduced point cloud processing time by 70% with OpenMP, Intel TBB, OpenCV & PCL CUDA
+  * Researched and built a cable-driven continuum device for robotic Endoscopic Submucosal Dissection (ESD) with SolidWorks and 3D printing
 
 > **Graduate Research Student**, Sep 2020 – Aug 2022
 * The Chinese University of Hong Kong
-  * Researched and invented a novel [distal joint rotation mechanism](/related-publications/2022-08-31-mphil-thesis) for soft robotic arms in a robotic Endoscopic Submucosal Dissection (ESD) system
+  * Researched and invented a novel [distal joint rotation mechanism](/related-publications/2022-08-31-mphil-thesis) for soft robotic arms in a robotic ESD system
   * Enhanced positional accuracy of tendon-sheath mechanism with feedforward and current sensing feedback controller
   * Built a motorized experiment platform with UART, RS232, USB, and EtherCAT in C++
 
@@ -58,7 +62,7 @@ Competition
 
 > **Team Leader**, Sep 2018 – Jun 2019
 * Asia-Pacific Broadcasting Union Robot Contest
-  * Led the development of an [autonomous quadruped robot](/portfolio/2019-quadruped-robot/) & an omni-wheel robot
+  * Led the design and development of an [autonomous quadruped robot](/portfolio/2019-quadruped-robot/) & an omni-wheel robot
   * Formulated kinematic models and visualized robot trajectory using Python
   * Built 3 prototypes with SolidWorks, milling, drilling, sheet metal, and 3D printing
   * Performed SolidWorks FEA to reduce part weight by 25%
