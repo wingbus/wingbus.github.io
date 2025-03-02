@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Passionate engineer with 4+ years of experience in the design and development of robotics and 3D vision systems in competitive environments. Skilled in advanced robotics, advanced control systems, embedded systems, 3D reconstruction, C++, Python, SolidWorks CAD, and rapid prototyping, with a proven track record of implementing underwater robots, soft robots, legged robots, omni-directional robots, structured light scanners, and enhancing system performance and efficiency through innovative engineering solutions.
+Passionate engineer with 2+ years of experience in the design and development of robotics and 3D vision systems in competitive environments. Skilled in advanced robotics, advanced control systems, embedded systems, 3D reconstruction, C++, Python, SolidWorks CAD, and rapid prototyping, with a proven track record of implementing underwater robots, soft robots, legged robots, omni-directional robots, structured light scanners, and enhancing system performance and efficiency through innovative engineering solutions.
 
 Skills
 ======
@@ -45,7 +45,6 @@ Experience
   * Enhanced positional accuracy of tendon-sheath mechanism with feedforward and current sensing feedback controller
   * Built a motorized experiment platform with UART, RS232, USB, and EtherCAT in C++
 
-
 > **Research Assistant**, Oct 2019 - Jun 2020
 * The Chinese University of Hong Kong
   * Invented a novel suturing device and a handheld controller for surgical interventions
@@ -72,7 +71,7 @@ Competition
 * American Society of Mechanical Engineers Student Design Competition
   * Awarded 2nd place out of 16 finalists from USA, India and South America
   * Built robust [soccer robots](/portfolio/2018-soccer-robots/) with various drivetrains and shooting mechanisms
-  * Programmed for 2.4 GHz remote control & PWM speed control in embedded mecanum robot
+  * Programmed for remote control & PWM speed control in Arduino
 
 Awards
 ======
